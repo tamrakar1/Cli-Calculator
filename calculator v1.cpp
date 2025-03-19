@@ -42,6 +42,9 @@ int main() {
         // default:
         //     cout << "Invalid operation!" << endl;
         //     return 1;
+        case '+':
+            result = num1 + num2;
+            break;
     }
     
     cout << "Result: " << result << endl;
