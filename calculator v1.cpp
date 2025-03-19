@@ -25,26 +25,8 @@ int main() {
     getValidNumber(num2);
 
     switch (operation) {   
-        // case '*':
-        //     result = num1 * num2;
-        //     break;
-        // case '/':
-        //     if (num2 == 0) {
-        //         cout << "Error! Division by zero is not allowed." << endl;
-        //         return 1;
-        //     }
-        //     result = num1 / num2;
-        //     break;
-        // default:
-        //     cout << "Invalid operation!" << endl;
-        //     return 1;
-        case '+':
-            result = num1 + num2;
-            break;
-            
-    switch (operation) {
-        case '-':
-            result = num1 - num2;
+       case '*':
+            result = num1 * num2;
             break;
     }
     
