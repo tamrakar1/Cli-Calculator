@@ -24,11 +24,7 @@ int main() {
     cout << "Enter second number: ";
     getValidNumber(num2);
 
-    switch (operation) {
-        
-        // case '-':
-        //     result = num1 - num2;
-        //     break;
+    switch (operation) {   
         // case '*':
         //     result = num1 * num2;
         //     break;
