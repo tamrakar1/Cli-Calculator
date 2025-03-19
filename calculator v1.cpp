@@ -38,10 +38,11 @@ int main() {
         case '+':
             result = num1 + num2;
             break;
-            
-    switch (operation) {
         case '-':
             result = num1 - num2;
+            break;
+       case '*':
+            result = num1 * num2;
             break;
     }
     
