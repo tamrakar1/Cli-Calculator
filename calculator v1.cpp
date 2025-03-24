@@ -25,7 +25,7 @@ int main() {
     getValidNumber(num2);
 
     switch (operation) {   
-        "This is a random branch for test!"
+        //"This is a random branch for test!"
         
         case '+':
         result = num1 + num2;
